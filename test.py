@@ -10,7 +10,7 @@ if __name__ == "__main__":
         if x == 5:
             break
 
-for i in range(10):
+for _ in range(10):
     from pdb import set_trace
 
     set_trace()
